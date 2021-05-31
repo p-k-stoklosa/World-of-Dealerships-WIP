@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "46be697237db05266b1d",
+    "revision": "73fa7c751e5b78076961",
     "url": "/World-of-Dealerships-WIP/static/css/main.15b86f30.chunk.css"
   },
   {
-    "revision": "46be697237db05266b1d",
-    "url": "/World-of-Dealerships-WIP/static/js/main.c8502694.chunk.js"
+    "revision": "73fa7c751e5b78076961",
+    "url": "/World-of-Dealerships-WIP/static/js/main.338177ff.chunk.js"
   },
   {
     "revision": "c8199b3999100c682ed2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/World-of-Dealerships-WIP/static/js/2.6edc736b.chunk.js"
   },
   {
-    "revision": "ca1422f609bd6b330be927ed897b560e",
+    "revision": "1d291b39484e5e42dfb2fa8da6e034f0",
     "url": "/World-of-Dealerships-WIP/index.html"
   }
 ];
