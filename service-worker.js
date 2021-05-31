@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/World-of-Dealerships-WIP/precache-manifest.26854482d6b414b6033a17cea62fdd1e.js"
+  "/World-of-Dealerships-WIP/precache-manifest.9733b52fcb5846d02d188e30debaa4e5.js"
 );
 
 workbox.clientsClaim();
