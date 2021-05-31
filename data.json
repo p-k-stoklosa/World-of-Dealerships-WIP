@@ -1,0 +1,338 @@
+[
+    {
+        "id": 0,
+        "brand": "Cherrier_FCV",
+        "model": "Vivace & Tograc",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/cherrier_fcv/cherrier_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_left",
+                "section_title": "VIVACE & TOGRAC",
+                "section_text": "If you've ever felt that you want a car that will meet your highest expectations, it will be ecological and dynamic at the same time, and will offer an interior you have never dreamed of. You've come to the right place. Vivace will touch your senses and Tograc will use them to travel without worries. Lose yourself in amazing details, the highest driving comfort and make your dreams come true with style.",
+                "image_left": "/images/cherrier_fcv/cherrier_01_01.png",
+                "image_center": null,
+                "image_right": "/images/cherrier_fcv/cherrier_01_02.png",
+                "keywords": ["BRAVE IN THE CITY", "LOW FUEL CONSUMPTION", "DRIVING DYNAMICS", "SECURITY SENSORS", "GREAT VISIBILITY", "JUST PERFECT"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_left",
+                "section_title": "EXPLORE WORLD WITHOUT LIMITS",
+                "section_text": "Don't be afraid to go where your mind takes you. Our specialists have developed an AWD driveline and increased ground clearance to overcome all odds. High curbs will no longer be a problem for you and going to the mountains will become a pleasure. Feel free!",
+                "image_left": "/images/cherrier_fcv/cherrier_02_00.png",
+                "image_center": null,
+                "image_right": null,
+                "keywords": ["CAPABLE OF ANYTHING", "HIGH GROUND CLEARANCE", "CERTANITY OF DRIVING", "POWERFUL ENGINE", "OFF-ROAD MODE", "READY FOR JOURNEY"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_right",
+                "section_title": "FULL OF POWER",
+                "section_text": "If you love the voice of a car exhaust, high speed, adrenaline, stiff suspension and enormous power, and inside you is a hidden racing driver ... then the car has found the perfect owner! Set track records and get the most out of the Cherrier! He loves it. Our racing experience has allowed us to create a version of the car that offers an amazing experience.",
+                "image_left": "/images/cherrier_fcv/cherrier_03_01.png",
+                "image_center": null,
+                "image_right": "/images/cherrier_fcv/cherrier_03_02.png",
+                "keywords": ["RACING MACHINE", "NEW FASTEST LAP!", "POLE POSITION", "- 0:00:061s", "A LOT OF GRIP", "JUST RACE HIM SO HARD"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "FUTURE IS NOW",
+                "section_text": "Take care of the world with electric versions of our models. Contribute to creating a more beautiful world. Make fuel expenses no longer a problem for you. All this thanks to our electric models for medium and long-range distance. Let your ears rest thanks to the sound-free ride and great noise reduction. Step into the future now!",
+                "image_left": null,
+                "image_center": "/images/cherrier_fcv/cherrier_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "brand": "ETK_Series_800",
+        "model": "Series 800",
+        "dealer": "Belasco_Auto",
+        "main_image": "/images/etk_800_series/etk800_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_left",
+                "section_title": "ETK SERIES 800",
+                "section_text": "ETK 800 was designed to give comfort, reliability, a beautiful line of the car. From the outside, we can enjoy a great design, a balance between an elegant appearance and a slightly sporty character. Inside, however, we will enjoy the soundproofing of the cabin, seats that will take care of us during a longer journey, safety systems, high-quality finish, spaciousness, a multimedia screen and a large trunk allowing for a long trip with many suitcases.",
+                "image_left": "/images/etk_800_series/etk800_01_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_800_series/etk800_01_02.png",
+                "keywords": ["HARMONY IDEAL", "ELEGANT APPEARANCE", "BRILLIANT LINES", "MAJESTIC INTERIOR", "MODERN MULTIMEDIA", "PERFECT COMBINATION"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_right",
+                "section_title": "DISTILLED EXCELLENCE",
+                "section_text": "A precisely prepared engine will allow you to enjoy the dynamics of driving and a high work culture. For years, our experts have paid the greatest attention to the development of our cars. Driving dynamics was one of the most important features when we founded our company, so the ETK 800 offers not only first-class driving dynamics, but also a balance between comfort and speed. Clean diesel for long distances or gasoline for a bit shorter? The choice is yours.",
+                "image_left": "/images/etk_800_series/etk800_02_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_800_series/etk800_02_02.png",
+                "keywords": ["PROFESSIONAL ENGINES", "HIGH WORK CULTURE", "CLEAN DIESEL", "FOR LONG DISTANCES", "ECONOMICAL GASOLINE", "FOR SHORT DISTANCES"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_right",
+                "section_title": "ETK DRIVING EXPERIENCE",
+                "section_text": "Do you want to develop your passion and experience? Get more from driving than before and become a unique driver. With our ETK Driving Experience program, everything becomes possible. Gain much more skills in the field of safe and dynamic driving. Master extreme road conditions. Burn tires as you master the drift. Experience unforgettable emotions behind the wheel on the track and become a outstanding driver with us!",
+                "image_left": "/images/etk_800_series/etk800_03_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_800_series/etk800_03_02.png",
+                "keywords": ["TAKE STEP CLOSER", "FEEL THE CAR", "MASTER YOUR SKILLS", "IMPROVE YOUR WEAKNESS", "FEEL THE FULL ADRENALINE", "OVERCOME YOUR LIMITATIONS"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "ETK 800 TTSPORT",
+                "section_text": "Our sport version of the ETK 800 is the essence of years of improving our technologies. ttSport offers an extraordinary sporty front and rear bumpers, AWD drive, a special ttSport+ mode that offers safety while squeezing the maximum out of the car, and Drift Mode that will allow you to quickly change from four-wheel drive to exciting rear-wheel drive.",
+                "image_left": null,
+                "image_center": "/images/etk_800_series/etk800_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "ETK_K_Series",
+        "model": "K SERIES",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/etk_k_series/etkk_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_right",
+                "section_title": "ETK K SERIES",
+                "section_text": "If you've ever felt that you want a car that will meet your highest expectations, it will be ecological and dynamic at the same time, and will offer an interior you have never dreamed of. You've come to the right place. Vivace will touch your senses and Tograc will use them to travel without worries. Lose yourself in amazing details, the highest driving comfort and make your dreams come true with style.",
+                "image_left": "/images/etk_k_series/etkk_01_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_k_series/etkk_01_02.png",
+                "keywords": ["SPORT PERFECTION", "3.0L STRAIGHT SIX", "6-SPEED MANUAL", "RWD & AWD VARIANTS", "LIMITED SLIP DIFFERENTIAL", "BLOODTHIRSTY VAMPIRE"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_left",
+                "section_title": "ETK DRIVING EXPERIENCE",
+                "section_text": "Do you want to develop your passion and experience? Get more from driving than before and become a unique driver. With our ETK Driving Experience program, everything becomes possible. Gain much more skills in the field of safe and dynamic driving. Master extreme road conditions. Burn tires as you master the drift. Experience unforgettable emotions behind the wheel on the track and become a outstanding driver with us!",
+                "image_left": "/images/etk_k_series/etkk_02_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_k_series/etkk_02_02.png",
+                "keywords": ["TAKE STEP CLOSER", "FEEL THE CAR", "MASTER YOUR SKILLS", "IMPROVE YOUR WEAKNESS", "FEEL THE FULL ADRENALINE", "OVERCOME YOUR LIMITATIONS"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_right",
+                "section_title": "TRAVEL WITH STYLE",
+                "section_text": "Every photo of your adventure will be perfect, as is the look of the ETK K Series. Feel special in the driver's seat and travel the world with comfort. Each route will be the essence of a perfect journey. You'll never be driving from A to B again because each ETK ride will mean so much more to you. Lose your senses in a perfectly designed interior. Let be lost in the pleasure of ETK K Series.",
+                "image_left": "/images/etk_k_series/etkk_03_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_k_series/etkk_03_02.png",
+                "keywords": ["FEEL CONNECTED", "UNIQUE STYLE", "COMFORT MODE", "EYE-CATCHING LOOK", "FULLY ADJUSTABLE SEATS", "GREATEST DREAM IS HERE"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "LIGHTS... CAMERA... ACTION!",
+                "section_text": "Our district is the highway. The opponents are fast and dangerous. Crime without limit. Risky service for our squad. Only thanks to a car like the ETK K Series can we do our best to prevent people from being in danger. We wouldn't be able to do it without a fast and safe car. ~ Semir Gerkhan",
+                "image_left": null,
+                "image_center": "/images/etk_k_series/etkk_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "ETK_I_Series",
+        "model": "I SERIES",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/etk_i_series/etki_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_right",
+                "section_title": "ETK I SERIES",
+                "section_text": "Imagine a luxury car, quite compact for its class. For now, you can see it through the fog, but with every second its precise body emerges. Everything fits together perfectly. You approach it, grab the door handle and hear that characteristic sound. You sit behind the wheel, the interior is so elegant, the seats are so comfortable, the steering wheel fits perfectly in your hands. You switch the ignition, perfection comes to life. Pleasant isn't it? Imaginations just got real with the new ETK I Series.",
+                "image_left": "/images/etk_i_series/etki_01_01.png",
+                "image_center": null,
+                "image_right": "/images/etk_i_series/etki_01_02.png",
+                "keywords": ["TOP CLASS", "FULL OF IDEALS", "CREATED WITH TASTE", "ELEGANT LOOK", "LUXURIOUS SHAPE", "UNIQUE QUALITY"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_left",
+                "section_title": "GIVES MORE THAN YOU THINK",
+                "section_text": "ETK I Series was created with German precision. The 6-cylinder in-line engine is able to generate up to 200 horsepower and its work culture will satisfy everyone. The automatic and manual gearbox in combination with the RWD or AWD will provide incredible driving accuracy and driving dynamics. It is also worth noting that the I Series has been equipped with additional safety systems, ranging from light wipers to airbags as standard. All this under a unique body created by specialists from ETK.",
+                "image_left": "/images/etk_i_series/etki_02_00.png",
+                "image_center": null,
+                "image_right": null,
+                "keywords": ["RELIABILITY NO. 1", "SAFEST IN CLASS", "BUILT WITH EXPERIENCE", "PERFECT TO THE LIMIT", "CONSTANT POWER", "GERMAN PRECISION"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_left",
+                "section_title": "ETK DRIVING EXPERIENCE",
+                "section_text": "Do you want to develop your passion and experience? Get more from driving than before and become a unique driver. With our new ETK Driving Experience program, everything becomes possible. Gain much more skills in the field of safe and dynamic driving. Master extreme road conditions. Experience unforgettable emotions behind the wheel on the track and become a outstanding driver with us! Join to our ETK Driving Experience program now!",
+                "image_left": "/images/etk_i_series/etki_03_00.png",
+                "image_center": null,
+                "image_right": null,
+                "keywords": ["TAKE STEP CLOSER", "FEEL THE CAR", "MASTER YOUR SKILLS", "IMPROVE YOUR WEAKNESS", "FEEL THE FULL ADRENALINE", "OVERCOME YOUR LIMITATIONS"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "RACE-BRED PERFORMANCE",
+                "section_text": "Based on ETK 2400ti TTSport Evolution, the successful track model with a convoluted name, speeds from victory to victory at 300km/h. It is all thanks to the great work of ETK specialists. Power, speed, grip, acceleration, low weight, performance and unique design. TTSport was made to stand on the top podium. This is the greatest achievement in racing technology.",
+                "image_left": null,
+                "image_center": "/images/etk_i_series/etki_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Hirochi_SBR4",
+        "model": "SBR4",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/hirochi_sbr4/sbr4_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_right",
+                "section_title": "HIROCHI SBR4",
+                "section_text": "For Hirochi, performance is a passion. We make sure that our cars are durable, reliable but, above all, extremely fast and dominant. Our newest car was created to share our passion with car lovers. Here is the Hirochi SBR4, shooting brake, rear mounted engine, for comfortale adults ultimate supercar with a 2.5L F4 engine combined with a twin turbo that is able to take you from 0 to 100 km/h in 3.4 seconds. And also brake back to zero at a distance of 35 meters.",
+                "image_left": "/images/hirochi_sbr4/sbr4_01_01.png",
+                "image_center": null,
+                "image_right": "/images/hirochi_sbr4/sbr4_01_02.png",
+                "keywords": ["SBR4", "SHOOTING BRAKE", "REAR MOUNTED ENGINE", "4 COMFORTABLE ADULTS", "FAST AND DOMINANT", "ULTIMATE SUPERCAR"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_right",
+                "section_title": "YOUR MIDLIFE SOLUTION",
+                "section_text": "The rear-mounted engine of the SBR4 generates 448 horsepower. To control such power, we have assembled it with a Dual Clutch Transmission gearbox which, in the selected configuration, transmits power to the AWD or RWD drive. SBR4 is ready for any competitive challenge, anyone, anywhere, anytime. We say it with full awareness because with our electronic system it is able to be the master of every road.",
+                "image_left": "/images/hirochi_sbr4/sbr4_02_01.png",
+                "image_center": null,
+                "image_right": "/images/hirochi_sbr4/sbr4_02_02.png",
+                "keywords": ["CREATED WITH PASSION", "REFINED TO PERFECTION", "BEST ON MANY LEVELS", "OBJECT OF DESIRE", "AUTOMOTIVE ART", "BUILT BY HAND"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_right",
+                "section_title": "AERODYNAMIC SHAPE",
+                "section_text": "Thanks to our designers, the appearance of the SBR4 not only serves to look magnificent, because it is also a specially prepared body to generate huge downforce, with an active spoiler playing a huge role. It adjusts the type of altitude and inclination to our speed. This allows our supercar to accelerate to its top speed of 307 km/h.",
+                "image_left": "/images/hirochi_sbr4/sbr4_03_01.png",
+                "image_center": null,
+                "image_right": "/images/hirochi_sbr4/sbr4_03_02.png",
+                "keywords": ["SAVAGE ACCELERATION", " ANGLES THAT MATTERS", "ABSOLUTE STABILITY", "QUICK IN EVERY CORNER", "ACTIVE AERODYNAMICS", "PROTECTING YOUR NECK"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "HILLCLIMB MONSTER",
+                "section_text": "HillClimb racing is characterized by high-powered cars that skillfully use high downforce to reach the pinnacle of performance. This is where the Hirochi SBR4 flexes its muscles and shows how wonderfully this car is constructed. The Hirochi SBR4 is more than a car, it is a technology-automotive romance created with the passion of car lovers.",
+                "image_left": null,
+                "image_center": "/images/hirochi_sbr4/sbr4_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Ibishu_Hopper",
+        "model": "Hopper",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/ibishu_hopper/hopper_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_left",
+                "section_title": "IBISHU HOPPER",
+                "section_text": "Hopper goes beyond the limits. He deviates from the beaten path to be able to give a sense of freedom, happiness and overcome fear. With no other car you will experience so many unforgettable experiences while exploring so far unexplored paths. Tight city streets, suburbs and country roads, forests, sandy beaches, snow-covered areas, mountain trails, start making your dreams come true and experience the world from a different side with Hopper.",
+                "image_left": "/images/ibishu_hopper/hopper_01_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_hopper/hopper_01_02.png",
+                "keywords": ["HOPPER WILL NEVER FAIL", "GREAT IN WINTER", "AWESOME IN SPRING", "BRILLIANT IN SUMMER", "MUDDY IN FALL", "PERFECT ALL YEAR ROUND"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_right",
+                "section_title": "ADAPTED TO EVERYTHING",
+                "section_text": "One of the greatest advantages of Hopper's adaptation to any conditions is the possibility of any customization. Found yourself on the beach and want to experience a beach buggy ride? Remove the roof and door and glide across the sand. Suddenly winter is here and you need a car with a metal roof? Just put on the hard top. Winter is gone and you are in the jungle and you want to be adapted to humidity, heat and wild creatures? Just put on the soft top and you are ready to explore the jungle surrounded by wild nature. It's all possible only with Hopper!",
+                "image_left": "/images/ibishu_hopper/hopper_02_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_hopper/hopper_02_02.png",
+                "keywords": ["SAFE ROLLBAR", "SOFT-TOP", "HARD-TOP", "REMOVABLE DOORS", "REMOVABLE ROOF", "CREATE YOUR FUN"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_left",
+                "section_title": "READY TO SCRAMBLE",
+                "section_text": "The Ibishu Hopper is a car that keeps your feet on the ground. The specially constructed live axle suspension will take care of you on bumpy terrain and the 4WD drive will provide maximum off-road traction. The frame-based design in combination with the 4 or 6-cylinder in-line Ibishu engines and the low weight allow the Hopper to always lead the way.",
+                "image_left": "/images/ibishu_hopper/hopper_03_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_hopper/hopper_03_02.png",
+                "keywords": ["FEEL CONNECTED", "FEEL FREEDOM", "GO ON ADVENTURES", "USE FULL POWER", "MARK NEW PATHS", "WORLD IS YOURS"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "LIGHTS... CAMERA... ACTION!",
+                "section_text": "Our district is the highway. The opponents are fast and dangerous. Crime without limit. Risky service for our squad. Only thanks to a car like the ETK K Series can we do our best to prevent people from being in danger. We wouldn't be able to do it without a fast and safe car. ~ Semir Gerkhan",
+                "image_left": null,
+                "image_center": "/images/ibishu_hopper/hopper_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Gavril_Bluebuck",
+        "model": "Bluebuck",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/gavril_bluebuck/bluebuck_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_left",
+                "section_title": "GAVRIL BLUEBUCK",
+                "section_text": "In a class of it’s own, Gavril Bluebuck 1962 stands alone. No other automobile offer so much of whats so many people desire. With styling thats bring u back to look and look again Bluebuck stands alone. Alone in pure and dedication to beauty and relaxation. Alone in jet smooth luction. Piece of space for freedom of movement in closed and styled car body. In a class of its own Gavril Bluebuck 1962 stands alone.",
+                "image_left": "/images/gavril_bluebuck/bluebuck_01_01.png",
+                "image_center": null,
+                "image_right": "/images/gavril_bluebuck/bluebuck_01_02.png",
+                "keywords": ["AMERICAN DREAM", "X-FRAME", "POWERFUL V8", "STYLED CAR BODY", "PIECE OF SPACE", "FREEDOM OF MOVEMENT"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_right",
+                "section_title": "AMERICAN FIRST CLASS",
+                "section_text": "Gavril Bluebuck, shortcut to everywhere. This car on earth kiss softly with the ground. A steal coilover spring for each wheel is the jet smooth ride of every Bluebuck. Soft covered bucket seats in front, perfectly finished dashboard. It's time for you to take charge. Get the Bluebuck, a great highway performer.",
+                "image_left": "/images/gavril_bluebuck/bluebuck_02_01.png",
+                "image_center": null,
+                "image_right": "/images/gavril_bluebuck/bluebuck_02_02.png",
+                "keywords": ["TWO DOOR VERSION", "FOUR DOOR VERSION", "CHROMED TRIM", "CHROMED BUMPERS", "SOFT SEATS", "JET SMOOTH RIDE"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_left",
+                "section_title": "BLUEBUCK ROADSPORT",
+                "section_text": "We proudly present to you that Bluebuck has joined Roadsport family. Basic model has undergone a number of changes, from shaping the suspension for high-performance driving, through a complete change of interior, including seats and dashboard, as well as steering wheel. Bluebuck Roadsport equip a 423 cubic inch 'Ultra-Thrust' big-block V8 combined with 4-Speed ​​Sport Manual allows you to reach 60mph in 7.4s. The hunted becomes the hunter.",
+                "image_left": "/images/gavril_bluebuck/bluebuck_03_01.png",
+                "image_center": null,
+                "image_right": "/images/gavril_bluebuck/bluebuck_03_02.png",
+                "keywords": ["FAST DRIVING CHARACTER", "SPORTY INTERIOR", "HEAVY DUTY SUSPENSION", "423cui ULTRA-THRUST V8", "BUCKET SEATS", "ROADSPORT NEW MEMBER"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "AMERICA'S FAST FUELED FUTURE",
+                "section_text": "The engines we create are one of the best engines in the world, their power, work culture and sound are essence of a great vehicle. Their development in racing field is very important because it will allow us to map future of American cars that will never become boring. ~ Pete Burnside Jr.",
+                "image_left": null,
+                "image_center": "/images/gavril_bluebuck/bluebuck_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
+    }
+]

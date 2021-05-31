@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "dealer_name": "Belasco_Auto",
+        "dealer_image": "/images/dealers/belasco_auto.png",
+        "dealer_offers": [
+            {
+                "id": 0,
+                "title": "ETK I Series",
+                "image": "/images/etk_i_series/etki_00_00.png",
+                "text": "Imagine a luxury car, quite compact for its class. For now, you can see it through the fog, but with every second its precise body emerges. Everything fits together perfectly. You approach it, grab the door handle and hear that characteristic sound. You sit behind the wheel, the interior is so elegant, the seats are so comfortable, the steering wheel fits perfectly in your hands. You switch the ignition, perfection comes to life. Pleasant isn't it? Imaginations just got real with the new ETK I Series.",
+                "url": "/car/ETK_I_Series"
+            },
+            {
+                "id": 1,
+                "title": "ETK K Series",
+                "image": "/images/etk_k_series/etkk_00_00.png",
+                "text": "If you've ever felt that you want a car that will meet your highest expectations, it will be ecological and dynamic at the same time, and will offer an interior you have never dreamed of. You've come to the right place. Vivace will touch your senses and Tograc will use them to travel without worries. Lose yourself in amazing details, the highest driving comfort and make your dreams come true with style.",
+                "url": "/car/ETK_K_Series"
+            },
+            {
+                "id": 2,
+                "title": "ETK 800 Series",
+                "image": "/images/etk_800_series/etk800_00_00.png",
+                "text": "ETK 800 was designed to give comfort, reliability, a beautiful line of the car. From the outside, we can enjoy a great design, a balance between an elegant appearance and a slightly sporty character. Inside, however, we will enjoy the soundproofing of the cabin, seats that will take care of us during a longer journey, safety systems, high-quality finish, spaciousness, a multimedia screen and a large trunk allowing for a long trip with many suitcases.",
+                "url": "/car/ETK_Series_800"
+            },
+            {
+                "id": 3,
+                "title": "Gavril Bluebuck",
+                "image": "/images/gavril_bluebuck/bluebuck_00_00.png",
+                "text": "In a class of it’s own, Gavril Bluebuck 1962 stands alone. No other automobile offer so much of whats so many people desire. With styling thats bring u back to look and look again Bluebuck stands alone. Alone in pure and dedication to beauty and relaxation. Alone in jet smooth luction. Piece of space for freedom of movement in closed and styled car body. In a class of its own Gavril Bluebuck 1962 stands alone.",
+                "url": "/car/Gavril_Bluebuck"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "dealer_name": "Richs_Motor_Company",
+        "dealer_image": "/images/dealers/rich's_motor_company.png",
+        "dealer_offers": [
+            {
+                "id": 0,
+                "title": "Hirochi SBR4",
+                "image": "/images/hirochi_sbr4/sbr4_00_00.png",
+                "text": "For Hirochi, performance is a passion. We make sure that our cars are durable, reliable but, above all, extremely fast and dominant. Our newest car was created to share our passion with car lovers. Here is the Hirochi SBR4, shooting brake, rear mounted engine, for comfortale adults ultimate supercar with a 2.5L F4 engine combined with a twin turbo that is able to take you from 0 to 100 km/h in 3.4 seconds. And also brake back to zero at a distance of 35 meters.",
+                "url": "/car/Hirochi_SBR4"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "dealer_name": "Claudio_Motors",
+        "dealer_image": "/images/dealers/claudio_motors.png",
+        "dealer_offers": [
+            {
+                "id": 0,
+                "title": "Cherrier FCV",
+                "image": "/images/cherrier_fcv/cherrier_00_00.png",
+                "text": "If you've ever felt that you want a car that will meet your highest expectations, it will be ecological and dynamic at the same time, and will offer an interior you have never dreamed of. You've come to the right place. Vivace will touch your senses and Tograc will use them to travel without worries. Lose yourself in amazing details, the highest driving comfort and make your dreams come true with style.",
+                "url": "/car/Cherrier_FCV"
+            },
+            {
+                "id": 1,
+                "title": "Ibishu Hopper",
+                "image": "/images/ibishu_hopper/hopper_00_00.png",
+                "text": "Hopper goes beyond the limits. He deviates from the beaten path to be able to give a sense of freedom, happiness and overcome fear. With no other car you will experience so many unforgettable experiences while exploring so far unexplored paths. Tight city streets, suburbs and country roads, forests, sandy beaches, snow-covered areas, mountain trails, start making your dreams come true and experience the world from a different side with Hopper.",
+                "url": "/car/Ibishu_Hopper"
+            }
+        ]
+    }
+]
