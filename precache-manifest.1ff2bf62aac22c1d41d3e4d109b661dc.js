@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/World-of-Dealerships-WIP/static/js/2.c818010a.chunk.js"
   },
   {
-    "revision": "db217b474ad7aac831e9d11c77ad6522",
+    "revision": "7b5f23a3a9801427e00b9bd85f88a793",
     "url": "/World-of-Dealerships-WIP/index.html"
   }
 ];
