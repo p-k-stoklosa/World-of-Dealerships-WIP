@@ -274,16 +274,6 @@
                 "image_center": null,
                 "image_right": "/images/ibishu_hopper/hopper_03_02.png",
                 "keywords": ["FEEL CONNECTED", "FEEL FREEDOM", "GO ON ADVENTURES", "USE FULL POWER", "MARK NEW PATHS", "WORLD IS YOURS"]
-            },
-            {
-                "id": 3,
-                "section_type": "section_center",
-                "section_title": "LIGHTS... CAMERA... ACTION!",
-                "section_text": "Our district is the highway. The opponents are fast and dangerous. Crime without limit. Risky service for our squad. Only thanks to a car like the ETK K Series can we do our best to prevent people from being in danger. We wouldn't be able to do it without a fast and safe car. ~ Semir Gerkhan",
-                "image_left": null,
-                "image_center": "/images/ibishu_hopper/hopper_04_00.png",
-                "image_right": null,
-                "keywords": []
             }
         ]
     },
