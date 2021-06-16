@@ -324,5 +324,53 @@
                 "keywords": []
             }
         ]
+    },
+    {
+        "id": 7,
+        "brand": "Ibishu_Pigeon",
+        "model": "Pigeon",
+        "dealer": "Claudio Motors",
+        "main_image": "/images/ibishu_pigeon/pigeon_00_00.png",
+        "sections": [{
+                "id": 0,
+                "section_type": "section_to_left",
+                "section_title": "IBISHU PIGEON",
+                "section_text": "Pigeon is a unique tricycle designed for local small businesses. Amazing small shape, light construction and available versions make it suitable in every corner of the world. It will easily squeeze through narrow side streets and traffic jams, delivering the most important loads for your company. Pigeon is more than a three-wheeled mini pickup truck. It's a car for a special missions. Get one today at your local Ibishu dealer.",
+                "image_left": "/images/ibishu_pigeon/pigeon_01_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_pigeon/pigeon_01_02.png",
+                "keywords": ["AMERICAN DREAM", "X-FRAME", "POWERFUL V8", "STYLED CAR BODY", "PIECE OF SPACE", "FREEDOM OF MOVEMENT"]
+            },
+            {
+                "id": 1,
+                "section_type": "section_to_right",
+                "section_title": "SMALL BUT CRAZY",
+                "section_text": "The Ibishu Pigeon weighs so little that we had to limit its engine power to 27 horsepower and combine it with a 3-speed gearbox to ensure the safety of the transported goods. However, despite this, it is able to reach over 100 km / h in a short time. What's more, its aerodynamic shape and economical diesel engine allow it to burn a small amount of fuel on short and long trips. This is undeniably the best three-wheeled mini pickup truck ever.",
+                "image_left": "/images/ibishu_pigeon/pigeon_02_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_pigeon/pigeon_02_02.png",
+                "keywords": ["TWO DOOR VERSION", "FOUR DOOR VERSION", "CHROMED TRIM", "CHROMED BUMPERS", "SOFT SEATS", "JET SMOOTH RIDE"]
+            },
+            {
+                "id": 2,
+                "section_type": "section_to_left",
+                "section_title": "TO PROTECT AND TO SERVE",
+                "section_text": "Ibishu Pigeon is not only a car for small enterprises but also for towns and large cities where Pigeon equipped with weapons will bravely fight with litter on the streets. Its specially adapted version every day will protect us to keep the streets clean like never before. Pigeon to fight, defend, clean and polish but that's not all! Some of you have already seen Ibishu Pigeon equipped with real weapons fighting real criminals in America's busiest city. Stay tuned for more...",
+                "image_left": "/images/ibishu_pigeon/pigeon_03_01.png",
+                "image_center": null,
+                "image_right": "/images/ibishu_pigeon/pigeon_03_02.png",
+                "keywords": ["FAST DRIVING CHARACTER", "SPORTY INTERIOR", "HEAVY DUTY SUSPENSION", "423cui ULTRA-THRUST V8", "BUCKET SEATS", "ROADSPORT NEW MEMBER"]
+            },
+            {
+                "id": 3,
+                "section_type": "section_center",
+                "section_title": "SHINING STAR",
+                "section_text": "Thanks to its light weight, incredible aerodynamics, rocket power and most importantly, unique transport abilities, the Ibishu Pigeon is able not only to deliver goods as a tricycle on land but also as a space shuttle on Earth orbit. This unique property was proved by two specialists and one monkey in the <b><i>Bottom Gear</i></b> program. According to the leaders, the first problems only showed the potential of the operation and give hope for a much better cosmic future.",
+                "image_left": null,
+                "image_center": "/images/ibishu_pigeon/pigeon_04_00.png",
+                "image_right": null,
+                "keywords": []
+            }
+        ]
     }
 ]
