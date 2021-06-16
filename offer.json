@@ -66,6 +66,13 @@
                 "image": "/images/ibishu_hopper/hopper_00_00.png",
                 "text": "Hopper goes beyond the limits. He deviates from the beaten path to be able to give a sense of freedom, happiness and overcome fear. With no other car you will experience so many unforgettable experiences while exploring so far unexplored paths. Tight city streets, suburbs and country roads, forests, sandy beaches, snow-covered areas, mountain trails, start making your dreams come true and experience the world from a different side with Hopper.",
                 "url": "/car/Ibishu_Hopper"
+            },
+            {
+                "id": 2,
+                "title": "Ibishu Pigeon",
+                "image": "/images/ibishu_pigeon/pigeon_00_00.png",
+                "text": "Pigeon is a unique tricycle designed for local small businesses. Amazing small shape, light construction and available versions make it suitable in every corner of the world. It will easily squeeze through narrow side streets and traffic jams, delivering the most important loads for your company. Pigeon is more than a three-wheeled mini pickup truck. It's a car for a special missions. Get one today at your local Ibishu dealer.",
+                "url": "/car/Ibishu_Pigeon"
             }
         ]
     }
