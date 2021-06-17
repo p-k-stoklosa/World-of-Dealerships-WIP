@@ -339,7 +339,7 @@
                 "image_left": "/images/ibishu_pigeon/pigeon_01_01.png",
                 "image_center": null,
                 "image_right": "/images/ibishu_pigeon/pigeon_01_02.png",
-                "keywords": ["AMERICAN DREAM", "X-FRAME", "POWERFUL V8", "STYLED CAR BODY", "PIECE OF SPACE", "FREEDOM OF MOVEMENT"]
+                "keywords": ["BEST IN CLASS", "3-WHEELED", "MINI PICKUP", "FOR NARROW STREETS", "FOR LOCAL BUSINESS", "FOR SOCIETY"]
             },
             {
                 "id": 1,
@@ -349,7 +349,7 @@
                 "image_left": "/images/ibishu_pigeon/pigeon_02_01.png",
                 "image_center": null,
                 "image_right": "/images/ibishu_pigeon/pigeon_02_02.png",
-                "keywords": ["TWO DOOR VERSION", "FOUR DOOR VERSION", "CHROMED TRIM", "CHROMED BUMPERS", "SOFT SEATS", "JET SMOOTH RIDE"]
+                "keywords": ["DIESEL ENGINE", "658cc 3-CYLINDER", "27 HORSEPOWER", "REAR-WHEEL-DRIVE", "3-SPEED MANUAL", "TOTAL WEIGHT ~500KG"]
             },
             {
                 "id": 2,
@@ -359,13 +359,13 @@
                 "image_left": "/images/ibishu_pigeon/pigeon_03_01.png",
                 "image_center": null,
                 "image_right": "/images/ibishu_pigeon/pigeon_03_02.png",
-                "keywords": ["FAST DRIVING CHARACTER", "SPORTY INTERIOR", "HEAVY DUTY SUSPENSION", "423cui ULTRA-THRUST V8", "BUCKET SEATS", "ROADSPORT NEW MEMBER"]
+                "keywords": ["3 BODY OPTIONS", "TO PROTECT", "TO SERVE", "TO FIGHT", "IN MANY FORMS", "MULTI-PURPOSE CAR"]
             },
             {
                 "id": 3,
                 "section_type": "section_center",
                 "section_title": "SHINING STAR",
-                "section_text": "Thanks to its light weight, incredible aerodynamics, rocket power and most importantly, unique transport abilities, the Ibishu Pigeon is able not only to deliver goods as a tricycle on land but also as a space shuttle on Earth orbit. This unique property was proved by two specialists and one monkey in the <b><i>Bottom Gear</i></b> program. According to the leaders, the first problems only showed the potential of the operation and give hope for a much better cosmic future.",
+                "section_text": "Thanks to its light weight, incredible aerodynamics, rocket power and most importantly, unique transport abilities, the Ibishu Pigeon is able not only to deliver goods as a tricycle on land but also as a space shuttle on Earth orbit. This unique property was proved by two specialists and one monkey in the Bottom Gear program. According to the leaders, the first problems only showed the potential of the operation and give hope for a much better cosmic future.",
                 "image_left": null,
                 "image_center": "/images/ibishu_pigeon/pigeon_04_00.png",
                 "image_right": null,
