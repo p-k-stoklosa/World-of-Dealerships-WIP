@@ -431,21 +431,21 @@
                 "id": 0,
                 "section_type": "section_to_left",
                 "section_title": "HIROCHI SUNBURST",
-                "section_text": "Hirochi Sunburst stays gluted to the road,  but you'll swear you're flying. Sunburst doesnt have wings. Or a jet engine. But the Hirochi Sunburst definitely flies. While the All-Wheel Drive helps fasten you to the asphalt, the 218 horsepower turbo engine hurls you from 0 to 100 in 5.0 seconds. It's pure race-bred performance. The kind that wins World Rally Championships. And the kind that can transform any road into a runway. Made by enthusiasts for enthusiasts. A love letter for the automotive community as well as a challenge for opponents. For more, visit your local Hirochi dealer.",
-                "image_left": "/images/hirochi_sunburst/sunburst_01_00.png",
+                "section_text": "Hirochi Sunburst stays gluted to the road,  but you'll swear you're flying. Sunburst doesnt have wings. Or a jet engine. But the Hirochi Sunburst definitely flies. While the All-Wheel Drive helps fasten you to the asphalt, the 218 horsepower turbo engine hurls you from 0 to 100 in 5.0 seconds. It's pure race-bred performance. The kind that wins World Rally Championships. And the kind that can transform any road into a runway. A love letter for the automotive community as well as a challenge for opponents.",
+                "image_left": "/images/hirochi_sunburst/sunburst_01_01.png",
                 "image_center": null,
-                "image_right": null,
-                "keywords": ["BEST IN CLASS", "3-WHEELED", "MINI PICKUP", "FOR NARROW STREETS", "FOR LOCAL BUSINESS", "FOR SOCIETY"]
+                "image_right": "/images/hirochi_sunburst/sunburst_01_02.png",
+                "keywords": ["RED CROW", "BLOOD ORCHID", "FROM ENTHUSIASTS", "FOR ENTHUSIASTS", "A LOVE LETTER", "FOR PETROLHEADS"]
             },
             {
                 "id": 1,
                 "section_type": "section_left",
                 "section_title": "SMALL BUT CRAZY",
-                "section_text": "Is it bed time already ? Let me introduce you to my Sunburst RS. The civil version of the Sunburst rally has just become a fact. A visual package that remodeled the front and rear bumper with side skirts, rear diffuser and a huge spoiler. The changed mapping of the engine with a more powerful turbo now giving almost 300 horsepower, an exhaust generating an aggressive rumble and improved traction by strengthening the suspension allows you to accelerate to 100kph in 3.8s. Sunburst RS is the essence of working on rally technology. When you think about rally, you think Hirochi.",
-                "image_left": "/images/hirochi_sunburst/sunburst_02_01.png",
+                "section_text": "Is it bed time already ? Let me introduce you to my Sunburst RS. The civil version of the rally Sunburst has just become a fact. A visual package that remodeled the front and rear bumper with side skirts, rear diffuser and a huge spoiler. The changed mapping of the engine with a more powerful turbo now giving almost 300 horsepower, an exhaust generating an aggressive rumble and improved traction by strengthening the suspension allows you to accelerate to 100kph in 3.8s. Sunburst RS is the essence of working on rally technology. When you think about rally, you think Hirochi.",
+                "image_left": "/images/hirochi_sunburst/sunburst_02_00.png",
                 "image_center": null,
-                "image_right": "/images/hirochi_sunburst/sunburst_02_02.png",
-                "keywords": ["DIESEL ENGINE", "658cc 3-CYLINDER", "27 HORSEPOWER", "REAR-WHEEL-DRIVE", "3-SPEED MANUAL", "TOTAL WEIGHT ~500KG"]
+                "image_right": null,
+                "keywords": ["準備をしなさい", "準備はできたか？", "SAN...", "NI...", "ICHI...", "レースが始まりました!"]
             },
             {
                 "id": 2,
@@ -455,7 +455,7 @@
                 "image_left": "/images/hirochi_sunburst/sunburst_03_01.png",
                 "image_center": null,
                 "image_right": "/images/hirochi_sunburst/sunburst_03_02.png",
-                "keywords": ["3 BODY OPTIONS", "TO PROTECT", "TO SERVE", "TO FIGHT", "IN MANY FORMS", "MULTI-PURPOSE CAR"]
+                "keywords": ["CAR OF THE YEAR", "PREPARED FOR ACTION", "NEWEST RACING TECHNOLOGY", "GLUTED TO THE SURFACE", "DOMINATOR OF MOTORSPORT", "RALLY CHAMPION"]
             },
             {
                 "id": 3,
