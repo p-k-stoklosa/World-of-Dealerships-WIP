@@ -439,13 +439,13 @@
             },
             {
                 "id": 1,
-                "section_type": "section_left",
+                "section_type": "section_to_left",
                 "section_title": "ナイトランナー",
                 "section_text": "Is it bed time already ? Let me introduce you to my Sunburst RS. The civil version of the rally Sunburst has just become a fact. A visual package that remodeled the front and rear bumper with side skirts, rear diffuser and a huge spoiler. The changed mapping of the engine with a more powerful turbo now giving almost 300 horsepower, an exhaust generating an aggressive rumble and improved traction by strengthening the suspension allows you to accelerate to 100kph in 3.8s. Sunburst RS is the essence of working on rally technology. When you think about rally, you think Hirochi.",
-                "image_left": "/images/hirochi_sunburst/sunburst_02_00.png",
+                "image_left": "/images/hirochi_sunburst/sunburst_02_01.png",
                 "image_center": null,
-                "image_right": null,
-                "keywords": ["準備をしなさい", "準備はできたか？", "SAN...", "NI...", "ICHI...", "レースが始まりました!"]
+                "image_right": "/images/hirochi_sunburst/sunburst_02_02.png",
+                "keywords": ["準備をしなさい", "準備はできたか？", "三...", "二...", "一...", "レースが始まりました!"]
             },
             {
                 "id": 2,
