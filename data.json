@@ -378,44 +378,44 @@
         "brand": "Wendward_DT40L",
         "model": "DT40L",
         "dealer": "Claudio Motors",
-        "main_image": "/images/ibishu_pigeon/pigeon_00_00.png",
+        "main_image": "/images/wentward_dt40l/dt40l_00_00.png",
         "sections": [{
                 "id": 0,
                 "section_type": "section_center",
                 "section_title": "WENDWARD DT40L",
-                "section_text": "Pigeon is a unique tricycle designed for local small businesses. Amazing small shape, light construction and available versions make it suitable in every corner of the world. It will easily squeeze through narrow side streets and traffic jams, delivering the most important loads for your company. Pigeon is more than a three-wheeled mini pickup truck. It's a car for a special missions. Get one today at your local Ibishu dealer.",
+                "section_text": "For years, our company has been making best efforts to provide durable commercial vehicles for companies and cities. The development of our company is primarily based on high reliability and practicality of the vehicles we produce. That's why our priority was to produce the city bus, because we are well aware of the huge demand in the public transport department. New city bus produced by Wentward is called DT40L. This a bus created for safe, durable and fast transport between districts and cities.",
                 "image_left": null,
                 "image_center": "/images/wentward_dt40l/dt40l_01_00.png",
                 "image_right": null,
-                "keywords": ["BEST IN CLASS", "3-WHEELED", "MINI PICKUP", "FOR NARROW STREETS", "FOR LOCAL BUSINESS", "FOR SOCIETY"]
+                "keywords": []
             },
             {
                 "id": 1,
                 "section_type": "section_center",
-                "section_title": "SMALL BUT CRAZY",
-                "section_text": "The Ibishu Pigeon weighs so little that we had to limit its engine power to 27 horsepower and combine it with a 3-speed gearbox to ensure the safety of the transported goods. However, despite this, it is able to reach over 100 km / h in a short time. What's more, its aerodynamic shape and economical diesel engine allow it to burn a small amount of fuel on short and long trips. This is undeniably the best three-wheeled mini pickup truck ever.",
+                "section_title": "YOUR BUS.",
+                "section_text": "DT40L is a bus equipped with a reliable Gavril TCM 8.9L Diesel engine, which, armed with a turbocharger, allows for a gentle departure from the bus stops and a rapid development of speed. In addition, the 4 or 6 speed automatic gearbox changes gears almost imperceptibly. The body of the DT40L also offers some surprises, such as the first electronic display in a city bus that allows for real-time route display. Now you will definitely get off at a good stop.",
                 "image_left": null,
                 "image_center": "/images/wentward_dt40l/dt40l_02_00.png",
                 "image_right": null,
-                "keywords": ["DIESEL ENGINE", "658cc 3-CYLINDER", "27 HORSEPOWER", "REAR-WHEEL-DRIVE", "3-SPEED MANUAL", "TOTAL WEIGHT ~500KG"]
+                "keywords": []
             },
             {
                 "id": 2,
                 "section_type": "section_center",
-                "section_title": "TO PROTECT AND TO SERVE",
-                "section_text": "Ibishu Pigeon is not only a car for small enterprises but also for towns and large cities where Pigeon equipped with weapons will bravely fight with litter on the streets. Its specially adapted version every day will protect us to keep the streets clean like never before. Pigeon to fight, defend, clean and polish but that's not all! Some of you have already seen Ibishu Pigeon equipped with real weapons fighting real criminals in America's busiest city. Stay tuned for more...",
+                "section_title": "YOUR ROUTE.",
+                "section_text": "Wentward DT40L has a lot of variants, ranging from the basic version with 275 horsepower, ending with the highway version with 345 horsepower. But this is not the end, DT40L is not only a city bus, but also a tourist bus which, thanks to the Zebra and Safari versions, will allow you to visit various places and sometimes feel like in a zoo. The DT40L is prepared to cope with unevenness. Airbag suspension suppresses bumps and allows the passenger to enjoy the trip.",
                 "image_left": null,
-                "image_center": "/images/wentward_dt40l/dt40l_01_00.png",
+                "image_center": "/images/wentward_dt40l/dt40l_03_00.png",
                 "image_right": null,
-                "keywords": ["3 BODY OPTIONS", "TO PROTECT", "TO SERVE", "TO FIGHT", "IN MANY FORMS", "MULTI-PURPOSE CAR"]
+                "keywords": []
             },
             {
                 "id": 3,
                 "section_type": "section_center",
-                "section_title": "SHINING STAR",
-                "section_text": "Thanks to its light weight, incredible aerodynamics, rocket power and most importantly, unique transport abilities, the Ibishu Pigeon is able not only to deliver goods as a tricycle on land but also as a space shuttle on Earth orbit. This unique property was proved by two specialists and one monkey in the Bottom Gear program. According to the leaders, the first problems only showed the potential of the operation and give hope for a much better cosmic future.",
+                "section_title": "SPEED & POWER",
+                "section_text": "Our company's vehicles have already appeared in various films, which is why, together with Belasco City Movie Company, we have created a film with Wentward DT40L playing the main role. Speed ​​& Power will have tons of action, stunts, chases and lots of twists. Please wait patiently for more information in the coming months!",
                 "image_left": null,
-                "image_center": "/images/ibishu_pigeon/pigeon_04_00.png",
+                "image_center": "/images/wentward_dt40l/dt40l_04_00.png",
                 "image_right": null,
                 "keywords": []
             }
